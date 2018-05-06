@@ -14,7 +14,7 @@ public class HelloEndpoint {
     public Employee getEmployeeDetails() {
         Employee employee = new Employee();
         
-        employee.setFirtName("Ashish");
+        employee.setFirstName("Ashish");
         
         return employee;
     	
